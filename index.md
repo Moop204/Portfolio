@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio
 
-You can use the [editor on GitHub](https://github.com/Moop204/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an undergraduate Bachelor Engineering Software student. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills & Interests 
 
-### Markdown
+I am a huge fan of C++ and am learning about web development based on React and Typescript. Other proficient languages include: 
+- Java 
+- Python 
+- Perl 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My interests cover: 
+- Algorithms
+- Scripting 
 
-```markdown
-Syntax highlighted code block
+## Projects
 
-# Header 1
-## Header 2
-### Header 3
+My work over the years.
 
-- Bulleted
-- List
+### Current 
 
-1. Numbered
-2. List
+Here are projects that I am actively working on. 
 
-**Bold** and _Italic_ and `Code` text
+### Completed
 
-[Link](url) and ![Image](src)
-```
+Here are projects that are at their final complete stage. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Moop204/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
