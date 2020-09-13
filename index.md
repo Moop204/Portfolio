@@ -21,6 +21,15 @@ My work over the years.
 
 Here are projects that I am actively working on. 
 
+|Project | Description | Languages |
+| :-- | :-- | :-- |
+| [Rosetta Code Contributions](https://github.com/Moop204/rosetta-code-contributions) <br> ![Rosetta Code Contributions](./assets/img/rosetta.png)| Monthly contributions to Rosetta Code in languages that I am very familiar with. | C++ |
+
+
+|Project | Description | Languages |Project | Description | Languages |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Rosetta Code Contributions](https://github.com/Moop204/rosetta-code-contributions) <br> ![Rosetta Code Contributions](./assets/img/rosetta.png)| Monthly contributions to Rosetta Code in languages that I am very familiar with. | C++ | [Rosetta Code Contributions](https://github.com/Moop204/rosetta-code-contributions) <br> ![Rosetta Code Contributions](./assets/img/rosetta.png)| Monthly contributions to Rosetta Code in languages that I am very familiar with. | C++ |
+
 ### Completed
 
 Here are projects that are at their final complete stage. 
