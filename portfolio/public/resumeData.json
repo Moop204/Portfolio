@@ -5,9 +5,8 @@
     "description": "Seeking experience to become a better full-stack developer.",
     "image": "profilepic.jpg",
     "bio": "I'm a curious individual and love challenging myself with new and different problems. I am most comfortable with Typescript and C++ but can probably pick up any programming language you throw at me.",
-    "contactmessage": "Contact me using the details below!.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "contactmessage": "Contact me through email at andrew.nguyen2045@outlook.com.",
+    "email": "andrew.nguyen2045@outlook.com",
     "address": {
       "street": "(Your Street)",
       "city": "Sydney",
@@ -18,24 +17,9 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -64,32 +48,28 @@
     ],
     "skills": [
       {
-        "name": "Git",
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Python",
+        "level": "60%"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
+        "name": "C++",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "PostgreSQL",
         "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
       }
     ]
   },
@@ -102,28 +82,16 @@
         "url": "https://github.com/Moop204/ElectronCellEditor/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Journa-Link",
+        "category": "Frontend of journalist API showing their past work.",
+        "image": "journa-link.png",
+        "url": "https://moop204.github.io/journa-link-search/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Deck of Gems",
+        "category": "API to provide states of the board game Splendor inspired by www.deckofcardsapi.com",
+        "image": "deck-of-gems.png",
+        "url": "https://deck-of-gems.herokuapp.com/"
       }
     ]
   },
