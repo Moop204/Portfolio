@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Image from "material-ui-image";
 
 class About extends Component {
   render() {
@@ -6,23 +7,21 @@ class About extends Component {
       var name = this.props.data.name;
       var profilepic = "images/" + this.props.data.image;
       var bio = this.props.data.bio;
-      var street = this.props.data.address.street;
       var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var zip = this.props.data.address.zip;
-      var phone = this.props.data.phone;
       var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
     }
+
+    console.log(profilepic);
 
     return (
       <section id="about">
+        <Image src={profilepic} /> {/* <img src={this.props.data.image} /> */}
         <div className="row">
           <div className="three columns">
             <img
               className="profile-pic"
               src={profilepic}
-              alt="Tim Baker Profile Pic"
+              alt="Andrew Nguyen Profile Pic"
             />
           </div>
           <div className="nine columns main-col">
@@ -39,13 +38,6 @@ class About extends Component {
                   <span>{email}</span>
                 </p>
               </div>
-              {/* <div className="columns download">
-                <p>
-                  <a href={resumeDownload} className="button">
-                    <i className="fa fa-download"></i>Download Resume
-                  </a>
-                </p>
-              </div> */}
             </div>
           </div>
         </div>
