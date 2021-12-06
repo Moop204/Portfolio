@@ -1,0 +1,103 @@
+{
+  "main": {
+    "name": "Andrew Nguyen",
+    "occupation": "Software Developer",
+    "description": "Seeking experience to become a better full-stack developer.",
+    "image": "profilepic.jpg",
+    "bio": "I'm a curious individual and love challenging myself with new and different problems. I am most comfortable with Typescript and C++ but can probably pick up any programming language you throw at me.",
+    "contactmessage": "Contact me through email at andrew.nguyen2045@outlook.com.",
+    "email": "andrew.nguyen2045@outlook.com",
+    "address": {
+      "city": "Sydney"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andrew-nguyen-97bb5116a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Moop204/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of New South Wales",
+        "degree": "Bachelor of Engineering (Honours) (Software)",
+        "graduated": "Sometime 2022",
+        "description": "Learned and practiced theory on Agile development, software development life cycles and the basics of pretty much every topic."
+      }
+    ],
+    "events": [
+      {
+        "company": "UNSW Maker Games",
+        "title": "Student Software Developer",
+        "years": "August 2020 ",
+        "description": "Took part in solving an industry problem with refereeing company Ignite Refereeing by implementing research papers on field segmentation and using computer vision techniques."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Electron CellML Editor (Thesis Project)",
+        "category": "A high level editor for CellML",
+        "image": "thesis-project.png",
+        "url": "https://github.com/Moop204/ElectronCellEditor/"
+      },
+      {
+        "title": "Journa-Link",
+        "category": "Frontend of journalist API showing their past work.",
+        "image": "journa-link.png",
+        "url": "https://moop204.github.io/journa-link-search/"
+      },
+      {
+        "title": "Deck of Gems",
+        "category": "API to provide states of the board game Splendor inspired by www.deckofcardsapi.com",
+        "image": "deck-of-gems.png",
+        "url": "https://deck-of-gems.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You're another Andrew Nguyen?",
+        "user": "Andrew Nguyen"
+      }
+    ]
+  }
+}
