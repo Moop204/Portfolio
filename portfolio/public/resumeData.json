@@ -96,10 +96,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Electron CellML Editor (Thesis Project)",
+        "category": "A high level editor for CellML",
+        "image": "thesis-project.png",
+        "url": "https://github.com/Moop204/ElectronCellEditor/"
       },
       {
         "title": "Fury Fighting Gear",
