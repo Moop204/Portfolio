@@ -2,7 +2,7 @@
   "main": {
     "name": "Andrew Nguyen",
     "occupation": "Software Developer",
-    "description": "Seeking experience to become a better full-stack developer.",
+    "description": "Seeking experience to become a better full-stack developer",
     "image": "profilepic.jpg",
     "bio": "I'm a curious individual and love challenging myself with new and different problems. I am most comfortable with Typescript and C++ but can probably pick up any programming language you throw at me.",
     "contactmessage": "Contact me through email at andrew.nguyen2045@outlook.com.",
@@ -101,6 +101,12 @@
         "category": "Applies XSLT files on XML files online",
         "image": "xslt-web.png",
         "url": "https://moop204.github.io/xslt-in-browser/"
+      },
+      {
+        "title": "Implementation of Burrows-Wheeler Transform ",
+        "category": "Implemented compression algorithm in Java",
+        "image": "bwt.png",
+        "url": "https://github.com/Moop204/bwt-implementation"
       }
     ]
   },
