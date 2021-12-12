@@ -73,6 +73,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "TextAudio component",
+        "category": "An implementation of in-line text with playable audio inspired by an ABC article.",
+        "image": "textaudio.png",
+        "url": "https://github.com/Moop204/textaudio"
+      },
+      {
         "title": "Electron CellML Editor (Thesis Project)",
         "category": "A high level editor for CellML",
         "image": "thesis-project.png",
@@ -89,6 +95,12 @@
         "category": "API to provide states of the board game Splendor inspired by www.deckofcardsapi.com",
         "image": "deck-of-gems.png",
         "url": "https://deck-of-gems.herokuapp.com/"
+      },
+      {
+        "title": "Online XSLT Converter",
+        "category": "Applies XSLT files on XML files online",
+        "image": "xslt-web.png",
+        "url": "https://moop204.github.io/xslt-in-browser/"
       }
     ]
   },
